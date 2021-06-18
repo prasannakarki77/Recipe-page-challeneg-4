@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/prasannakarki77/Interior_Consultant_Challenge-3" >
+    <a href="https://github.com/prasannakarki77/Recipe-page-challenge-4.git" >
       Solution
     </a>
     <span> | </span>
