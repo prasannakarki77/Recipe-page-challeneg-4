@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/prasannakarki77/Recipe-page-challenge-4.git" >
+    <a href="https://devchallenges.io/solutions/v6txptzIw8FKaKCUdE2I" >
       Solution
     </a>
     <span> | </span>
